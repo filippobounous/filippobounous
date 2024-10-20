@@ -1,4 +1,4 @@
-## Hi there 👋
+I use this profile to push some projects I'm currently working on, and add projects from courses I have completed.
 
 <!--
 **filippobounous/filippobounous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
