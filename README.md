@@ -1,4 +1,12 @@
-I use this profile to push some projects I'm currently working on, and add projects from courses I have completed.
+## Hi 👋
+
+I'm Filippo, and I use this profile to push some projects I'm currently working on, as well as projects from courses I have completed.
+
+I mainly work with Python and Jupyter, but I'm also looking to start learning and working with C++.
+
+Feel free to reach out if you'd like to discuss anything further!
+
+🌱 Always learning, always building.
 
 <!--
 **filippobounous/filippobounous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
